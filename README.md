@@ -40,12 +40,12 @@ To create  development environment follow these instructions.
 
 Setting up your development environment on your local machine:
 
-$ git clone https://github.com/Laytoo/myblog10.git
-$ cd myblog10
-$ cp .env.example .env
-$ cmposer update
-$ php artisan key:generate
-$ php artisan storage:link
+- $ git clone https://github.com/Laytoo/myblog10.git.
+- $ cd myblog10.
+- $ cp .env.example .env.
+- $ cmposer update.
+- $ php artisan key:generate.
+- $ php artisan storage:link.
 
 ## Before starting
 
