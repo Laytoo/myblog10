@@ -31,10 +31,10 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 
 
-Some screenshots
+##Some screenshots
 
 You can find some screenshots of the application on : https://www.medcode.tech/
-Installation
+##Installation
 
 To create  development environment follow these instructions.
 
@@ -47,7 +47,7 @@ $ cmposer update
 $ php artisan key:generate
 $ php artisan storage:link
 
-Before starting
+##Before starting
 
 You need to run the migrations with the seeds :
 
